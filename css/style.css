@@ -373,6 +373,7 @@ li.agile-it-adress-left b {
 } 
 .cd-stretchy-nav.edit-content ul span {
     position: absolute;
+	width:100px;
     top: 6px;
     right: 64px;
     height: 30px;
